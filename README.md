@@ -25,7 +25,7 @@ This is a simple To-Do List web application developed as part of my Code Alpha i
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/todolist-project.git
+    git clone https://github.com/Heluhz/todolist-project.git
     ```
 2. Navigate to the project directory:
     ```bash
